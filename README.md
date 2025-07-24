@@ -201,7 +201,7 @@ graph TD
 ### 🔗 相关链接
 - [更新日志](CHANGELOG.md)
 - [贡献指南](CONTRIBUTING.md)
-- [问题反馈](../../issues)
+- [问题反馈](https://github.com/allenjxd/testcase-generate-ai/issues)
 - [English Documentation](README_EN.md)
 
 ---

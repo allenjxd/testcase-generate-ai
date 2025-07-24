@@ -201,7 +201,7 @@ This project is licensed under the [MIT License](LICENSE).
 ### 🔗 Related Links
 - [Changelog](CHANGELOG.md)
 - [Contributing Guide](CONTRIBUTING.md)
-- [Issue Feedback](../../issues)
+- [Issue Feedback](https://github.com/allenjxd/testcase-generate-ai/issues)
 - [中文文档](README.md)
 
 ---
